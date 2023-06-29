@@ -1,6 +1,6 @@
 # Instance Generator
 This repository contains a data generator for the instances of the order dispatching and vacant vehicle rebalancing in first-mile ride-sharing problem discussed in the article Ye, J., Pantuso, G., Pisinger, D.. "Adaptive Large Neighborhood Search for Order Dispatching and
-Vacant Vehicle Rebalancing in First-mile Ride-sharing Problem". The instance generator is written in Python and is thoroughly described in the article. Particularly this repository contains two folders: The Src folder, which contains the Python code, and the Instances folder, which contains the data files processed by the code to generate instances.
+Vacant Vehicle Rebalancing in First-mile Ride-sharing Problem". The instance generator is written in Python and is thoroughly described in the article. Particularly this repository contains two folders: The src folder, which contains the Python code, and the instances folder, which contains the data files processed by the code to generate instances.
 
 # How to generate instances
 In order to generate instances the code accepts the following command line arguments
